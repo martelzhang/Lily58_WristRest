@@ -1,4 +1,4 @@
-# Lily58_case
+# Lily58_WristRest
 Custom 3D-printed wrist rest compatible with the Lily58 split keyboard and Lunar58 case.
 ![keyboard](./images/kb.jpg)
 
